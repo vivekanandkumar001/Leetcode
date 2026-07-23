@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vivekanandkumar001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekanandkumar001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/vivekanandkumar001/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/vivekanandkumar001/Leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/vivekanandkumar001/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/vivekanandkumar001/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vivekanandkumar001/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekanandkumar001/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0645-set-mismatch](https://github.com/vivekanandkumar001/Leetcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vivekanandkumar001/Leetcode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/vivekanandkumar001/Leetcode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/vivekanandkumar001/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
